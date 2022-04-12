@@ -22,5 +22,8 @@
   },
   "peerDependencies": {
     "@newcoin-foundation/core": "*"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

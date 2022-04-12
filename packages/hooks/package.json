@@ -23,5 +23,8 @@
     "@newcoin-foundation/state": "*"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
 }
